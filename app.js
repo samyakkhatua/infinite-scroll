@@ -22,6 +22,6 @@ window.addEventListener('scroll', () => {
     
     if ((window.scrollY + window.innerHeight >= document.documentElement.scrollHeight)) {
         // loadImages()
-        setTimeout(loadImages, 1000)
+        setTimeout(loadImages, 3000)
     }
 })
