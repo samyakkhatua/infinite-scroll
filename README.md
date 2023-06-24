@@ -40,8 +40,6 @@ Scroll down the page to see additional content being loaded automatically.
 
 - Infinite scrolling: Load additional content automatically as the user scrolls down the page.
 
-- Responsive design: The project is designed to work well on different screen sizes and devices.
-
 - Smooth scrolling experience: The content is loaded seamlessly without the need for page refresh or manual intervention.
 
 - Efficient resource utilization: Only the required amount of content is loaded at a time, reducing bandwidth and improving performance.
@@ -60,6 +58,7 @@ If you have any feedback, please reach out to us at hello@samyakkhatua.in
 - [@samyakkhatua](https://www.github.com/samyakkhatua)
 
 ## Roadmap
+- Responsive design: The project is designed to work well on different screen sizes and devices.
 
 - Add a loading indicator to provide feedback to the user while new content is being loaded.
 
