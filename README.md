@@ -9,7 +9,7 @@ The project utilizes JavaScript to dynamically load additional content when the 
 
 ## Demo
 
-![Alt Text](https://media.giphy.com/media/AXK99IqSdSbmP4Mn/giphy.gif)
+![Alt Text]()
 
 
 ## Tech Stack
