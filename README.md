@@ -1,6 +1,6 @@
 # Infinite Scroll using JS
 ## The Infinite Scroll Using JS project is a demonstration of how to implement infinite scrolling on a web page using JavaScript. It allows you to load and display a large list of items gradually as the user scrolls down the page, providing a seamless and responsive user experience.
-The project utilizes JavaScript to dynamically load additional content when the user reaches the end of the current content, eliminating the need for pagination or manual clicking of "Load More" buttons. This creates a smoother browsing experience and improves performance by reducing the initial page load time.
+The project utilizes JavaScript to dynamically load additional avatars pictures from http://xsgames.co/randomusers API, when the user reaches the end of the current content, eliminating the need for pagination or manual clicking of "Load More" buttons. This creates a smoother browsing experience and improves performance by reducing the initial page load time.
 
 
 ### Deployed Link : 
