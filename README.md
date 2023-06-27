@@ -9,7 +9,7 @@ The project utilizes JavaScript to dynamically load additional avatars pictures 
 
 ## Demo
 
-![Alt Text]()
+![Alt Text](https://media.giphy.com/media/DyUyGn1TYlSe9NASJN/giphy.gif)
 
 
 ## Tech Stack
